@@ -6,9 +6,11 @@ Quora Keywords Crawler
 
     >D:
     >QuoraKeywordsCrawler.exe -keyword java -outputfile D:/java.xls -pn 5
-    
+  
 3.-keyword:input your keyword
   -outputfile:your outputfile(.xls)
   -pn:Sum page number
 
 4.System requirements: Windows and Firefox browser 56.
+
+5. The java.xls is the outputfile about the keyword.
