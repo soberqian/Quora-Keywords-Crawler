@@ -10,3 +10,5 @@ Quora Keywords Crawler
 3.-keyword:input your keyword
   -outputfile:your outputfile(.xls)
   -pn:Sum page number
+
+4.System requirements: Windows and Firefox browser 56.
